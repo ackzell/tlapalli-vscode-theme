@@ -1,0 +1,56 @@
+{
+  "name": "tlapalli",
+  "displayName": "Tlapalli",
+  "description": "Tlapalli means color in Nahuatl",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tlapalli 00: Obsidian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tlapalli-obsidian-theme.json"
+      },
+      {
+        "label": "Tlapalli 01: Gold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tlapalli-gold-theme.json"
+      },
+      {
+        "label": "Tlapalli 02: Jade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tlapalli-jade-theme.json"
+      },
+      {
+        "label": "Tlapalli 03: Quartz",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tlapalli-quartz-theme.json"
+      },
+      {
+        "label": "Tlapalli 04: Lapis Lazuli",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tlapalli-lapis-lazuli-theme.json"
+      },
+      {
+        "label": "Tlapalli 05: Amethyst",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tlapalli-amethyst-theme.json"
+      },
+      {
+        "label": "Tlapalli 06: Emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tlapalli-emerald-theme.json"
+      },
+      {
+        "label": "Tlapalli 07: Ruby",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tlapalli-ruby-theme.json"
+      }
+    ]
+  }
+}
