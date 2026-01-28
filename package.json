@@ -22,9 +22,9 @@
         "path": "./themes/tlapalli-gold-theme.json"
       },
       {
-        "label": "Tlapalli 02: Jade",
+        "label": "Tlapalli 02: Turquoise",
         "uiTheme": "vs-dark",
-        "path": "./themes/tlapalli-jade-theme.json"
+        "path": "./themes/tlapalli-turquoise-theme.json"
       },
       {
         "label": "Tlapalli 03: Quartz",
@@ -42,14 +42,14 @@
         "path": "./themes/tlapalli-amethyst-theme.json"
       },
       {
-        "label": "Tlapalli 06: Emerald",
+        "label": "Tlapalli 06: Jade",
         "uiTheme": "vs-dark",
-        "path": "./themes/tlapalli-emerald-theme.json"
+        "path": "./themes/tlapalli-jade-theme.json"
       },
       {
-        "label": "Tlapalli 07: Ruby",
+        "label": "Tlapalli 07: Fire Opal",
         "uiTheme": "vs-dark",
-        "path": "./themes/tlapalli-ruby-theme.json"
+        "path": "./themes/tlapalli-fire-opal-theme.json"
       },
       {
         "label": "Tlapalli 08: Pearl",

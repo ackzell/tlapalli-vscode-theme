@@ -38,7 +38,7 @@
 		"editor.findMatchHighlightBackground": "#0f0a127c",
 		"editor.findMatchHighlightBorder": "#3d2d47",
 		"editor.foldBackground": "#0f0a126e",
-		"editor.foreground": "#8a70ad",
+		"editor.foreground": "#997cc0",
 		"editor.hoverHighlightBackground": "#251a2a77",
 		"editor.lineHighlightBackground": "#120d18",
 		"editor.selectionBackground": "#6d2d8477",
@@ -212,7 +212,7 @@
 	"tokenColors": [
 		{
 			"scope": "variable.parameter.function",
-			"settings": { "foreground": "#da72f1b0" }
+			"settings": { "foreground": "#da72f1c5" }
 		},
 		{
 			"scope": "comment, punctuation.definition.comment",
