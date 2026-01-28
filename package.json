@@ -50,6 +50,11 @@
         "label": "Tlapalli 07: Ruby",
         "uiTheme": "vs-dark",
         "path": "./themes/tlapalli-ruby-theme.json"
+      },
+      {
+        "label": "Tlapalli 08: Pearl",
+        "uiTheme": "vs",
+        "path": "./themes/tlapalli-pearl-theme.json"
       }
     ]
   }
