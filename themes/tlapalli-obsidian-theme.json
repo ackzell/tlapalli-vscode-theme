@@ -1,5 +1,5 @@
 {
-  "name": "Tlapalli:Obsidian",
+  "name": "Tlapalli 00: Obsidian",
   "type": "dark",
   "colors": {
     "activityBar.activeBorder": "#020202",
@@ -62,7 +62,8 @@
     "editorSuggestWidget.highlightForeground": "#afaca8",
     "editorWarning.foreground": "#5b5957",
     "editorWhitespace.foreground": "#222221",
-    "editorWidget.background": "#020202",
+    "editorWidget.background": "#0d0d0d",
+    "editorWidget.border": "#222221",
     "editorHoverWidget.statusBarBackground": "#020202",
     "focusBorder": "#020202",
 	"foreground": "#5e5c5a",
@@ -171,6 +172,8 @@
     "tab.inactiveBackground": "#020202",
     "tab.inactiveForeground": "#494848dc",
     "tab.activeBorder": "#fafafaef",
+    "tab.unfocusedHoverForeground": "#fafafaef",
+    "tab.hoverForeground": "#fafafaef",
     "terminal.ansiBrightBlack": "#222121",
     "terminal.ansiBrightBlue": "#383736",
     "terminal.ansiBrightGreen": "#4d4c4a",

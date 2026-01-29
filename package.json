@@ -50,11 +50,6 @@
         "label": "Tlapalli 07: Fire Opal",
         "uiTheme": "vs-dark",
         "path": "./themes/tlapalli-fire-opal-theme.json"
-      },
-      {
-        "label": "Tlapalli 08: Pearl",
-        "uiTheme": "vs",
-        "path": "./themes/tlapalli-pearl-theme.json"
       }
     ]
   }

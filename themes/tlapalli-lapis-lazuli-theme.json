@@ -1,5 +1,5 @@
 {
-	"name": "Tlapalli:Lapis Lazuli",
+	"name": "Tlapalli 04: Lapis Lazuli",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBorder": "#070a0d",
@@ -62,7 +62,8 @@
 		"editorSuggestWidget.highlightForeground": "#a8c9f0",
 		"editorWarning.foreground": "#3d5570",
 		"editorWhitespace.foreground": "#1e2a38",
-		"editorWidget.background": "#070a0d",
+		"editorWidget.background": "#0c141a",
+		"editorWidget.border": "#1e2a38",
 		"editorHoverWidget.statusBarBackground": "#070a0d",
 		"focusBorder": "#070a0d",
 		"foreground": "#3d5f7f",
@@ -83,7 +84,7 @@
 		"list.filterMatchBorder": "#070a0d",
 		"list.focusBackground": "#1a3a4d1a",
 		"list.focusForeground": "#c4e8ff",
-		"list.highlightForeground": "#7099bd",
+		"list.highlightForeground": "#7099bdcf",
 		"list.hoverBackground": "#070a0d",
 		"list.inactiveSelectionBackground": "#070a0d",
 		"list.inactiveSelectionForeground": "#a8c9f0",
@@ -102,7 +103,7 @@
 		"peekViewEditor.matchHighlightBorder": "#2d3d47",
 		"peekViewEditorGutter.background": "#070a0d",
 		"peekViewResult.background": "#0d1218",
-		"peekViewResult.fileForeground": "#7099bd",
+		"peekViewResult.fileForeground": "#7099bdcf",
 		"peekViewResult.lineForeground": "#2d3d47",
 		"peekViewResult.matchHighlightBackground": "#151b22",
 		"peekViewResult.selectionBackground": "#070a0d",
@@ -171,12 +172,14 @@
 		"tab.inactiveBackground": "#070a0d",
 		"tab.inactiveForeground": "#2d3d47dc",
 		"tab.activeBorder": "#a8c9f0ef",
+		"tab.unfocusedHoverForeground": "#a8c9f0ef",
+		"tab.hoverForeground": "#a8c9f0ef",
 		"terminal.ansiBrightBlack": "#1e2a38",
 		"terminal.ansiBrightBlue": "#2a404d",
 		"terminal.ansiBrightGreen": "#3d5f7f",
 		"terminal.ansiBrightCyan": "#507a9e",
 		"terminal.ansiBrightRed": "#5a7f9d",
-		"terminal.ansiBrightMagenta": "#7099bd",
+		"terminal.ansiBrightMagenta": "#7099bdcf",
 		"terminal.ansiBrightYellow": "#8fb5d9",
 		"terminal.ansiBrightWhite": "#c4e8ff",
 		"terminal.ansiBlack": "#070a0d",
@@ -184,11 +187,11 @@
 		"terminal.ansiGreen": "#3d5f7f",
 		"terminal.ansiCyan": "#507a9e",
 		"terminal.ansiRed": "#5a7f9d",
-		"terminal.ansiMagenta": "#7099bd",
+		"terminal.ansiMagenta": "#7099bdcf",
 		"terminal.ansiYellow": "#8fb5d9",
 		"terminal.ansiWhite": "#9dc9e3",
 		"terminal.background": "#070a0d",
-		"terminal.foreground": "#7099bd",
+		"terminal.foreground": "#7099bdcf",
 		"terminalCursor.background": "#070a0d",
 		"terminalCursor.foreground": "#a8c9f0",
 		"textLink.activeForeground": "#c4e8ff",
@@ -232,7 +235,7 @@
 		},
 		{
 			"scope": "support.class, entity.name.class, entity.name.type.class",
-			"settings": { "foreground": "#7099bd" }
+			"settings": { "foreground": "#7099bdcf" }
 		},
 		{ "scope": "meta.class", "settings": { "foreground": "#b8deff" } },
 		{
@@ -267,7 +270,7 @@
 		{ "scope": "keyword.other.unit", "settings": { "foreground": "#7faccb" } },
 		{
 			"scope": "markup.bold, punctuation.definition.bold",
-			"settings": { "foreground": "#7099bd", "fontStyle": "bold" }
+			"settings": { "foreground": "#7099bdcf", "fontStyle": "bold" }
 		},
 		{
 			"scope": "markup.italic, punctuation.definition.italic",

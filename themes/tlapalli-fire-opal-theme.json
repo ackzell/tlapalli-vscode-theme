@@ -1,5 +1,5 @@
 {
-	"name": "Tlapalli:Fire Opal",
+	"name": "Tlapalli 07: Fire Opal",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBorder": "#0c0707",
@@ -63,7 +63,8 @@
 		"editorSuggestWidget.highlightForeground": "#ff4848",
 		"editorWarning.foreground": "#703d3d",
 		"editorWhitespace.foreground": "#381e1e",
-		"editorWidget.background": "#0c0707",
+		"editorWidget.background": "#150c0c",
+		"editorWidget.border": "#381e1e",
 		"editorHoverWidget.statusBarBackground": "#0c0707",
 		"errorForeground": "#ffffff",
 		"focusBorder": "#0c0707",
@@ -175,6 +176,8 @@
 		"tab.inactiveBackground": "#0c0707",
 		"tab.inactiveForeground": "#472d2ddc",
 		"tab.activeBorder": "#e85d7add",
+		"tab.unfocusedHoverForeground": "#e85d7add",
+		"tab.hoverForeground": "#e85d7add",
 		"terminal.ansiBrightBlack": "#381e1e",
 		"terminal.ansiBrightBlue": "#4d2a2a",
 		"terminal.ansiBrightGreen": "#7f3d3d",
