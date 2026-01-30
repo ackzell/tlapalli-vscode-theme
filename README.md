@@ -1,6 +1,12 @@
 # tlapalli 
 
+<p align="center">
+  <br>
+  <img src="logo.svg" alt="tlapalli-vscode-theme logo" height="300"  />
+</p>
+
 > **[tlah-PAH-lee](https://nahuatl.wired-humanities.org/content/tlapalli)** in Nahuatl means color
+
 
 A collection of monochromatic dark themes in different hues. Each theme uses lightness and font styles (like _italic_ or **bold**) to distinguish tokens, rather than relying on multiple colors to do the job.
 
