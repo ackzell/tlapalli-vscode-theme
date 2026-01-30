@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="logo.svg" alt="tlapalli-vscode-theme logo" height="300"  />
+  <img src="logo.jpg" alt="tlapalli-vscode-theme logo" height="300"  />
 </p>
 
 > **[tlah-PAH-lee](https://nahuatl.wired-humanities.org/content/tlapalli)** in Nahuatl means color
