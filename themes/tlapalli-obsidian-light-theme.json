@@ -243,7 +243,7 @@
     "terminal.findMatchBorder": "#fdfdfd",
     "terminal.findMatchHighlightBackground": "#edf5f57c",
     "terminal.findMatchHighlightBorder": "#c0c0c0",
-    "editor.findMatchHighlightForeground": "#fdfdfd"
+    "editor.findMatchForeground": "#020202"
   },
   "tokenColors": [
     {
