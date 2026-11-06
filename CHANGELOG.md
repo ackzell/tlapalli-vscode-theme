@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.2.2](https://github.com/ackzell/tlapalli-vscode-theme/compare/v1.2.1...v1.2.2) (2026-11-06)
+
+
+### Bug Fixes
+
+* **light-themes:** Improving JSON key contrast ([64ef152](https://github.com/ackzell/tlapalli-vscode-theme/commit/64ef152b034ecfd980dbe4aadf60303ed8f7635e))
+* **themes:** Fixing find match text contrast in the editor ([254406e](https://github.com/ackzell/tlapalli-vscode-theme/commit/254406e4a08c145b7410ac6b2c98827019e04414))
+
 ## [1.2.1](https://github.com/ackzell/tlapalli-vscode-theme/compare/v1.2.0...v1.2.1) (2026-08-21)
 
 
